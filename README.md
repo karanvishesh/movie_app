@@ -4,7 +4,8 @@ A new Flutter project.
 # overview
 This app shows current popular movies, top-rated movies and upcoming movies. It's a protype app. User can book tickets via app selecting seats of their choice. The app shows
 realtime data accessing from TDMB api.
-#usage
+
+# usage
 In order to open the project clone or download the repository and open in any IDE that supports flutter development. Download packages through pubsec.yaml and you are good to go.
 I also attached a apk file so you can test it out.
 
